@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//7
+//Token
 
 /**
  * This class runs the application and handles the Product I/O
