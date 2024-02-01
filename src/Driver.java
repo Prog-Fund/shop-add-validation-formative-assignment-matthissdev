@@ -1,9 +1,5 @@
 import java.util.Scanner;
-//Hi There
-//second go, hi there
-//third, hi there
-//fourth, hi there
-//5
+//6
 
 /**
  * This class runs the application and handles the Product I/O
