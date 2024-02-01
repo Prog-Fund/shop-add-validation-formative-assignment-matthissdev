@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//6
+//7
 
 /**
  * This class runs the application and handles the Product I/O
